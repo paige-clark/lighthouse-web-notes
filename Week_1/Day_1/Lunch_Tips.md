@@ -18,4 +18,3 @@ Experimented with comparison operators (`>`, `<`, `===`) in the node REPL.
 
 >`Code from assignment:`
 Can be found in my secret gists.
-```
